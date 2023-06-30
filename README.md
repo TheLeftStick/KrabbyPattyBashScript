@@ -1,6 +1,6 @@
 # Krabby Patty Bash Script
 
-This was a fun Bash Script assignment I did for my internship! The purpose of this project was to practice my bash scripting skills and become more familiar with Linux Bash commands. It demostrates the usage of bash scripting varibles, conditional statements, and loops.
+This was a fun Bash Script assignment I did for my internship! The purpose of this project was to practice my Bash scripting skills and become more familiar with Linux Bash commands. It demonstrates the usage of bash scripting variables, conditional statements, and loops.
 
 # To run bash script:
 1. Download the file in desired directory
